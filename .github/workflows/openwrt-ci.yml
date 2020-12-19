@@ -25,7 +25,7 @@ jobs:
 
   build_openwrt:
 
-    name: Build OpenWrt firmware
+    name: Build OpenWrt-RASP3B+ firmware
 
     runs-on: ubuntu-latest
 
